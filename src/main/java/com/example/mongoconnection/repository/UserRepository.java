@@ -1,4 +1,4 @@
-package com.example.mongoconnection.repo;
+package com.example.mongoconnection.repository;
 
 import com.example.mongoconnection.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
